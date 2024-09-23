@@ -9,7 +9,7 @@ take it easy just have fun
 ## Installation
 Clone the repository:
 
-   git clone https://github.com/Nima-Hmz/XO_justforfun.git	
+   ```git clone https://github.com/Nima-Hmz/XO_justforfun.git```	
 
 
 
