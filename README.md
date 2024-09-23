@@ -17,13 +17,18 @@ Clone the repository:
 use one of python or c++ implementations:
 
 A)python:
-	1. make sure you have python3 installed on your computer
-	2. use : "python3 XO_justforfun" in python directory
+<br>
+1. make sure you have python3 installed on your computer
+<br>
+3. use this command in python directory: ```python3 XO_justforfun``` 
 
 B)c++:
-	1. make sure you have borland c IDE installed on your computer
-	2. run the n1&ra++jadval-fixed.cpp file in borland c IDE
- 	or you can use the n1&ra++jadval-fixed.exe file directly 	
+<br>
+1. make sure you have borland c IDE installed on your computer
+<br>
+2. run the n1&ra++jadval-fixed.cpp file in borland c IDE
+<br>
+(or you can use the n1&ra++jadval-fixed.exe file directly) 	
 
 ## Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
