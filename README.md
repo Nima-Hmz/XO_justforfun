@@ -33,4 +33,4 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 This project is licensed under the MIT License.
 
 ## Contact
-Created by [Nima-Hmz] - [hmzmain11@gmail.com]
+Created by [Nima-Hmz] - [hmznima77@gmail.com]
