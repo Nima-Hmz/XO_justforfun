@@ -1,4 +1,4 @@
-# XO-game
+# XO_justforfun
 
 ## Description
 This project was one of my first programming projects, created during my first semester of university while studying Computer Engineering.It includes both C++ and Python implementations of similar functionality, allowing me to explore and learn key concepts in both languages.
