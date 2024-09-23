@@ -18,7 +18,6 @@ use one of python or c++ implementations:
 
 A)python:
 1. make sure you have python3 installed on your computer
-<br>
 2. use this command in python directory:
  ```python3 XO_justforfun``` 
 
