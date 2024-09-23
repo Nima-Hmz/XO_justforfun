@@ -17,10 +17,10 @@ Clone the repository:
 use one of python or c++ implementations:
 
 A)python:
-<br>
 1. make sure you have python3 installed on your computer
 <br>
-3. use this command in python directory: ```python3 XO_justforfun``` 
+2. use this command in python directory:
+ ```python3 XO_justforfun``` 
 
 B)c++:
 <br>
