@@ -22,7 +22,7 @@ A)python:
 
 B)c++:
 	1. make sure you have borland c IDE installed on your computer
-	2. run the n1&ra++jadval-fixed.cpp file on borland c IDE
+	2. run the n1&ra++jadval-fixed.cpp file in borland c IDE
  	or you can use the n1&ra++jadval-fixed.exe file directly 	
 
 ## Contributing
